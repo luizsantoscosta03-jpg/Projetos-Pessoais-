@@ -20,7 +20,7 @@ public class calculadoraimc {
             } else if (imc < 30) {
                 System.out.println("Sobrepeso");
             } else {
-                System.out.println("Obesidade");
+                System.out.println("Obesidade, por gentileza procure um medico!");
                 System.out.println("Deseja calcular novamente (S/N)");
             }
             System.out.println("Deseja calcular novamente ?");
